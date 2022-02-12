@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
 html{
     scroll-behavior: smooth;
 }
@@ -42,8 +46,8 @@ html{
 .h1{
     margin-top: 50%;
     color: white;
-    font-family: 'Montserrat', calibri;
-    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    
     font-size:70px;
 	line-height: 84px;
     padding-bottom: 20px;
@@ -54,9 +58,8 @@ html{
 .h3{
 
     color: white;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
-    font-weight: bolder;
    
 }
 .contaracter h1{
@@ -65,7 +68,7 @@ html{
     position: relative;
     font-weight: none;
     font-size: 50px;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
 .contaracter h2{
@@ -79,7 +82,7 @@ html{
 }
 .grids h1{
     color: #32C1CD;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 .grids img{
     height: 200px;
@@ -131,7 +134,7 @@ social media
 }
 .expe h1{
     color: #32C1CD;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 .expe p{
     color: gray;
@@ -145,7 +148,7 @@ social media
 }
 .grids1 h1{
     color: #32C1CD;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 .abli{
     border-bottom: 1px solid gray;
@@ -156,7 +159,7 @@ social media
 
 .abli h1{
     color: orangered;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 .abli p{
     color: gray;
@@ -165,7 +168,7 @@ social media
 }
 .skills h1{
     color: orangered;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 
 .skills .one {
@@ -206,7 +209,7 @@ social media
     padding-bottom: 2%;
 }
 .lang h1{
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
     color: orangered;
 }
 .lang1{
@@ -220,7 +223,7 @@ social media
 }
 .tools h1{
     color: orangered;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 
 }
 .tool1{
@@ -231,7 +234,7 @@ social media
 }
 .projects h1{
     color: orangered;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 .projects p{
     font-size: 20px;
@@ -264,12 +267,12 @@ social media
 }
 .contact h1{
     color: white;
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
     
 }
 .contact h4{
     color: rgb(187, 181, 181);
-    font-family: 'Montserrat', calibri;
+    font-family: 'Roboto', sans-serif;
 }
 .links{
     margin-top: 4%;
